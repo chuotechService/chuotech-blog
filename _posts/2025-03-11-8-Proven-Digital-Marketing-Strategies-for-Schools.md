@@ -5,7 +5,7 @@ date: 2025-03-11
 categories: School digital marketing
 tags: school_marketing, digital_marketing, digital_strategy,
 ---
-![8ProvenSchoolMarketingStrategies]({{site.baseurl}}/assets/img/posts/8contentMarketingTipsForSchoolsChuotech.jpeg)
+<!-- ![8ProvenSchoolMarketingStrategies]({{site.baseurl}}/assets/img/posts/8contentMarketingTipsForSchoolsChuotech.jpeg) -->
 
 In today’s digital world, parents and students don’t just choose a school based on word of mouth; they research online, compare options, and make informed decisions. That’s why content marketing has become one of the most powerful ways to promote your school. But what exactly is content marketing, and how can you use it effectively? Let’s break it down.
 
