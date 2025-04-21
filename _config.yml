@@ -130,6 +130,10 @@ comments:
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
+# to avoid problems with github pages which ignores fiels and folders starting with an underscore unless explicitly whiteliste in _config.yml
+include:
+  - _posts
+
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
